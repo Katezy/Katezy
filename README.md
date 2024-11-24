@@ -10,52 +10,63 @@
 
 ---
 
-### Welcome to My GitHub Profile! 🎉
+<div align="center">
+  <h2>Welcome to My GitHub Profile! 🎉</h2>
+</div>
 
-**👩‍💻 I'm Katezy (Katezy)** and I’m a passionate **Developer** who loves exploring new technologies and building awesome things. I'm always learning and constantly improving my skills!
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Lover-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-NT-green?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Currently Working On:
-- 🖥️ **Building a cutting-edge project** in full-stack development
-- 📱 **Mobile app development** for a new startup
-- 🎮 Exploring **Game Development** in Unity
+<ul>
+  <li>🖥️ Building a cutting-edge project in full-stack development</li>
+  <li>📱 Mobile app development for a new startup</li>
+  <li>🎮 Exploring Game Development in Unity</li>
+</ul>
 
 ### 🌱 Currently Learning:
-- 🔍 **AI & Machine Learning** – deep diving into neural networks!
-- 💻 **Blockchain Development** and smart contract programming
-- 🏗️ **Web3 technologies** and decentralized applications (dApps)
+<ul>
+  <li>🔍 AI & Machine Learning – deep diving into neural networks!</li>
+  <li>💻 Blockchain Development and smart contract programming</li>
+  <li>🏗️ Web3 technologies and decentralized applications (dApps)</li>
+</ul>
 
 ### 👯 Looking to Collaborate On:
-- 🖥️ Full-stack applications
-- 🚀 AI-based tools and applications
-- 🎨 Creative tech projects (Web, Design, Animation)
+<ul>
+  <li>🖥️ Full-stack applications</li>
+  <li>🚀 AI-based tools and applications</li>
+  <li>🎨 Creative tech projects (Web, Design, Animation)</li>
+</ul>
 
 ### 🤔 I'm Looking For Help With:
-- 💡 Tips on scaling web applications and backend architecture
-- 🤖 Machine Learning model implementation
-- 🌍 Collaborations on Open Source projects!
+<ul>
+  <li>💡 Tips on scaling web applications and backend architecture</li>
+  <li>🤖 Machine Learning model implementation</li>
+  <li>🌍 Collaborations on Open Source projects!</li>
+</ul>
 
 ### 💬 Ask Me About:
-- 🚀 Tips on programming and coding best practices
-- 🌱 Web Development & Design
-- 🎮 Game Development basics
-- 📚 Learning resources and productivity tips
+<ul>
+  <li>🚀 Tips on programming and coding best practices</li>
+  <li>🌱 Web Development & Design</li>
+  <li>🎮 Game Development basics</li>
+  <li>📚 Learning resources and productivity tips</li>
+</ul>
 
 ### 📫 How to Reach Me:
-- 💻 **Email**: katezy@email.com
-- 🌐 **Website**: [katezy.dev](https://katezy.dev)
-- 💬 **Discord**: Katezy#1234
+<ul>
+  <li>💻 <strong>Email:</strong> <a href="mailto:katezy@email.com">katezy@email.com</a></li>
+  <li>🌐 <strong>Website:</strong> <a href="https://katezy.dev" target="_blank">katezy.dev</a></li>
+  <li>💬 <strong>Discord:</strong> Katezy#1234</li>
+</ul>
 
 ### 😄 Pronouns: 
 - She/Her
 
 ### ⚡ Fun Fact:
-- 🌍 I have traveled to 10+ countries and I love experiencing new cultures and languages!
-- 🎮 I'm a huge fan of indie games and building my own!
-
----
-
-✨ **Let’s Connect!** ✨
-
-Feel free to reach out to me if you want to collaborate, share ideas, or chat about tech and life! 😎
+<ul>
+  <li>🌍 I have traveled to 10+ c
